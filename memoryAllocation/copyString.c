@@ -19,7 +19,9 @@
 //
 //int main() {
 //    char original[] = "Hi there!";
-//    printf("After copying: %s", copyString(original));
+//    char *result = copyString(original);
+//    printf("After copying: %s", result);
+//    free(result);
 //    return 0;
 //}
 
