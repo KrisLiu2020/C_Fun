@@ -48,7 +48,6 @@
 //
 //Link createNodeWithNext(int data, Link next) {
 //    Link link = createNode(data);
-//    link->data = data;
 //    link->next = next;
 //    return link;
 //}
