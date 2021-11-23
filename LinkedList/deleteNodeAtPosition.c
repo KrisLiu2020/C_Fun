@@ -144,6 +144,6 @@
 //    int deleted = deleteNodeAtPosition(&nullHead, 6);
 //    printf("%d\n", deleted);
 //    printLinkedListRecursively(head);
-
-    return 0;
-}
+//
+//    return 0;
+//}
